@@ -36,7 +36,7 @@ class ScreenTwo extends StatelessWidget {
             const Padding(
               padding: EdgeInsets.all(8.0),
               child: Text(
-                "Add all Account & Manage ",
+                "Track your Activity  ",
                 textAlign: TextAlign.center,
                 style: TextStyle(fontSize:18, fontWeight:FontWeight.bold,
                     color:Color(0xff4c39a3)),

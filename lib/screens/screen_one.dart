@@ -35,7 +35,7 @@ class ScreenOne extends StatelessWidget {
              const Padding(
                padding: EdgeInsets.all(8.0),
                child: Text(
-                  "Track your Activity ",
+                  "Add all Account & Manage ",
                   textAlign: TextAlign.center,
                   style: TextStyle(fontSize:18, fontWeight:FontWeight.bold,
                   color:Color(0xff4c39a3)),
